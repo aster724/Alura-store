@@ -11,15 +11,15 @@
 }
 
 .encabezado {
-    background: green;    
+       
     grid-area: encabezado;
 }
 .contenido {
-    background: red;
+    
     grid-area: contenido;
 }
 
 .rodapie { 
-    background: blue;
+    
     grid-area: rodapie;    
 }
