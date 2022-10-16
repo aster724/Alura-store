@@ -11,12 +11,22 @@
 }
 
 .encabezado {
-       
+    align-items: center;
+    display: flex;   
     grid-area: encabezado;
+    padding: 0 2rem;
+}
+.menu__link{
+    color: #333333;
+    padding: .5rem 1rem;
+}
+.menu__link:hover, .menu__link:active{
+    border-bottom: 2px solid #0073e6;
 }
 .contenido {
     
     grid-area: contenido;
+    padding: 0 2rem;
 }
 
 .rodapie { 
