@@ -37,7 +37,7 @@
 .populares__contenido{
     display: flex;
     flex-wrap: wrap;
-    /*grid-area: contenido;*/
+    grid-area: contenido;
     padding: 1rem 0rem;
 }
 .populares__card___titulo{
